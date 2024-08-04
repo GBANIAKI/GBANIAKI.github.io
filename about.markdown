@@ -1,18 +1,21 @@
 ---
-layout: page
-title: About
+layout: archive
+title: "About Me"
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# Hi, I am Gerves Francois BANIAKINA
+I started my academic curricula in undergraduate as a physicist and took a few computer science courses. Through the years, I became curious about how the computer was made and what was the difference between the hardware and the software. This led me to my Master's degree in computer science and artificial intelligence. I taught myself C#, HTML, CSS, React.js, Node.js, and web application programming.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am passionate about programming. I am a lifelong learner who loves to build software, which has led to look for a role of full-stack engineer or software engineer. I love playing bridge game. It's a great way to test my skills and strategy, stay sharp, and keep my mind active. I am also a quantum computing enthusiast and it has given me a broader perspective of computer science.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I am currently loooking for work that utilizes my expertise and academic background and allows me to grow as a full-stack engineer or a software engineer.
 
+## My Skills
+### Technical Skills
 
-[jekyll-organization]: https://github.com/jekyll
+{% include technicalskills.md %}
+
+### Soft Sills
+
+{% include softskills.md %}
