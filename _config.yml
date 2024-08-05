@@ -19,14 +19,21 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Gerves Francois BANIAKINA
-email: your-email@example.com
+email: gbaniakina2006@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+ Welcome to Gerves's Tech Hub!
+
+Embark on an exciting journey into the world of software development, artificial intelligence, and full-stack engineering. As a recent graduate passionate about technology and innovation, I am eager to share my experiences in coding, AI, and machine learning.
+Here, you will find insights, tutorials, and best practices for building robust and scalable applications using cutting-edge technologies.
+
+Explore the dynamic intersection of front-end innovations and back-end architectures, and discover how I bring ideas to life with impactful digital solutions. Dive into my projects, explore the latest industry trends, and connect with me to advance technology.
+Whether you're a fellow developer, an entrepreneur with a tech vision, or someone keen to learn, you'll find valuable resources here. Let's shape the future together by coding and harnessing the transformative power of AI and machine learning!
+
+As I seek entry-level opportunities, I invite you to join me on this journey of discovery and growth in the tech world.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://gbaniaki.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
+linkedin_uername: gbaniakina2006
 github_username: GBANIAKI
 search: true
 
