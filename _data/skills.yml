@@ -3,7 +3,7 @@ technical:
    level: Advanced
  - title: HTML and HTML5
    level: Advanced
- - title: JavaScrpt,TypeScript, ReactJS, NodeJS and VueJS
+ - title: JavaScrpt, TypeScript, ReactJS, NodeJS and VueJS, AngularJS
    level: Advanced
  - title: C++ and C  
    level: Advanced
@@ -13,8 +13,95 @@ technical:
    level: Advanced
  - title: C#  
    level: Intermediate
- - title: MatLab
+ - title: Matlab
    level: Intermediate
+ - title: R
+   level: Intermediate
+ - title: Prolog
+   level: Intermediate
+ - title: Lisp, Scheme
+   level: Intermediate
+ - title: SQL, PL/SQL, mySQL, NoSQL(CQL) 
+   level: Advanced
+ - title: Apache Pig, Apache Kafka, Apache Spark, Apache Cassandra
+   level: Intermediate
+ - title: Hive, HBase, Databases, MongoDB
+   level: Intermediate
+ - title: Pandas, TKinter, Numpy, OpenCV, Seaborn,
+   level: Advanced
+ - title: Pytorch, Scikit-learn, Matplotlib, TensorFlow, Keras 
+   level: Intermediate
+ - title: Web Programming
+   level: Intermediate
+ - title: Terraform
+   level: Intermediate
+ - title: Machine Learning Programming
+   level: beginning
+ - title: Hadoop, MapReduce, Large-scale Data Processing, ETL, HDFS Storage
+   level: Intermediate
+ - title: AWS, Google Cloud, Microsoft Azure, Cloud Strategy
+   level: Beginning
+ - title: MLOps, DevOps, MLOps Life Cycle
+   level: beginning
+ - title: Cloud Administration, Hybrid MultiCloud Networking, Cloud Strategy,
+   level: Beginning
+ - title: AWS Athena, AWS Lambda, AWS S3
+   level: Intermediate
+ - title: Data Warehouse, Data Engineering Pipelines
+   level: Beginning
+ - title: STL and Threading Building Blocks Library
+   level: Intermediate
+ - title: High Performance Computing, Parallel Programming
+   level: Intermediate
+ - title: Concurrent Programming, Multi-threaded and Multi-Process Programming, Client-server Model Programming
+   level: Intermediate
+ - title: Networking Programming, Socket API, Distributed Algorithms
+   level: Intermediate
+ - title: Linear Programming
+   level: Advanced
+ - title: Object-Oriented Programming
+   level: Advanced
+ - title: Functional Programming
+   level: Advanced
+ - title: Procedural Programming
+   level: Advanced
+ - title: Dynamic Programming
+   level: Advanced
+ - title: Brute Force Algorithms
+   level: Advanced
+ - title: Recursive Algorithm
+   level: Advanced
+ - title: Radomized Algorithm
+   level: Advanced
+ - title: Sorting Algorithm
+   level: Advanced
+ - title: Searching Algorithm
+   level: Advanced
+ - title: Hashing Algorithm
+   level: Advanced
+ - title: Linux or Ubuntu, Windows, MAC OS, Oracle Server
+   level: Intermediate
+ - title: Shell Scripting, Command line, User-input Shell Commands, Common Gateway Interface
+   level: Intermediate
+ - title: Testnet
+   level: Intermediate
+ - title: Docker, Kubernetes
+   level: beginning
+ - title: Oracle Fusion
+   level: Intermediate
+ - title: Time-series analysis, AI/ML algorithms, end-to-end model development
+   level: Advanced
+ - title: Distributed Systems, Data Structures, Database Technologies
+   level: beginning
+ - title: Mathematical modeling, Risk & Margine Analytics
+   level: Beginning
+ - title: Software Engineering
+   level: Advanced
+ - title: Feature Engineering
+   level: Advanced
+ - title: AI Models Performance Measurement
+   level: Intermediate
+  
 
 soft:
  - title: Writing
@@ -25,5 +112,7 @@ soft:
    level: Intermediate
  - title: Management
    level: Intermediate
- - title: customer Service
+ - title: Customer Service
    level: Intermediate
+ - title: Quantitative Problem-solving
+   level: Advanced
