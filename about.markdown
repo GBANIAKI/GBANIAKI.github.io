@@ -9,7 +9,7 @@ I started my academic journey in undergraduate as a Physicist and took a few com
 
 I am passionate about building software, user-centric products for the web, machine learning and Artificial Intelligence-based products. I am a lifelong learner who loves to code, train machine learning models, and solve quantitative problems which has led to look for a role in AI-full-stack Engineering, Software Engineering or Machine Learning Engineering. I love solving puzzles. It's a great way to test my skills and strategy, stay sharp, and keep my mind active. I am also a Quantum Computing enthusiast and it has given me a broader perspective of Computer Science.
 
-I am currently loooking for work that utilizes my expertise and academic background and allows me to grow as an AI-full-stack Engineer, Software Engineer, or Machine Learning Engineer.
+I am currently looking for work that utilizes my expertise and academic background and allows me to grow as an AI-full-stack Engineer, Software Engineer, or Machine Learning Engineer.
 
 ## My Skills
 ### Technical Skills
