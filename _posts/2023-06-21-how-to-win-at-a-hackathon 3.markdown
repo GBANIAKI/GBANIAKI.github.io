@@ -6,8 +6,6 @@ date:   2023-06-21 19:13:27 -0500
 tags: [hackathon]
 author_profile: true
 author: Leigh Stewardson
-author_profile: true
-author: Leigh Stewardson
 categories: [article]
 header:
     overlay_image: https://images.unsplash.com/photo-1574664620916-fb955a65cab3

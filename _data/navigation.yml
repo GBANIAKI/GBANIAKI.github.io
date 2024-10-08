@@ -3,9 +3,9 @@ main:
   - title: "Home"
     url: "/"
   - title: "My Work"
-    url: "mywork"
+    url: "/mywork"
   - title: "My Writing"
-    url: "mywriting"
+    url: "/mywriting"
   - title: "About Me"
     url: "/about"
  

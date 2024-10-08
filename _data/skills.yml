@@ -101,6 +101,10 @@ technical:
    level: Advanced
  - title: AI Models Performance Measurement
    level: Intermediate
+ - title: Computer Vision
+   level: Intermediate
+ - title: Image Processing
+   level: Intermediate
   
 
 soft:
