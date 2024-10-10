@@ -10,9 +10,9 @@ categories: work
 highlight_home: false
 tagline: " hybrid cloud console"
 header:
-  overlay_image: /assets/images/life.png
-  teaser:  /assets/images/life.png
-  caption: "Photo credit: **Leigh Stewardson**"
+   overlay_image: https://images.unsplash.com/photo-1512928210967-3dced5ba507b
+    teaser: https://images.unsplash.com/photo-1512928210967-3dced5ba507b
+    caption: "Photo credit: [**Unsplash: Katya Ross**](https://unsplash.com/@katya)"
 description: This article showcases the game Red hat Hybrid cloud.
 ---
 
