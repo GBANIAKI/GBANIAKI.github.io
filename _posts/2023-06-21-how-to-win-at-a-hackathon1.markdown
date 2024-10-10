@@ -25,7 +25,7 @@ Dots to me, represent meaningful moments and/or experiences in life that help to
 I approach hackathons as “dot” moments.  I see these “dots” as powerful, dense moments  in time that have meaning and significance and upon further inspection, are just waiting to be connected.
 
 There are three parts to this process of examination and they are:
-* [Part 1: Investing in the “Dots”]({{base_url}}/article/2023/06/22/how-to-win-at-a-hackathon.html)
+* [Part 1: Investing in the “Dots”]({% post_url 2023-06-21-how-to-win-at-a-hackathon1 %})
 * [Part 2: Connecting the “Dots”]({{base_url}}/article/2023/06/22/how-to-win-at-a-hackathon-2.html)
 * [Part 3: Casting the “Dots,” wide and far]({{base_url}}/article/2023/06/22/how-to-win-at-a-hackathon-3.html)
 
@@ -56,7 +56,7 @@ When I asked Armagan why he liked hackathons, he said, “The thrill of building
 I personally like hackathons because the time crunch forces me to boil a product down to its essence in order to beat the clock. There is little time to decide. I have to go with my gut and whatever tools I have in my toolbelt to get the job done. 
 
 ## Conclusion
-If building a portfolio is what you are interested in doing and it’s light on content, attend a hackathon. If you are trying something new, attend a hackathon. If you are looking for a job or need to network…you know the answer. In [Part 2]({{base_url}}/article/2023/06/21/how-to-win-at-a-hackathon-2.html) we’ll look at how to connect the dots.
+If building a portfolio is what you are interested in doing and it’s light on content, attend a hackathon. If you are trying something new, attend a hackathon. If you are looking for a job or need to network…you know the answer. In [Part 2]({% post_url 2023-06-21-how-to-win-at-a-hackathon 2 %}) we’ll look at how to connect the dots.
 
 ## Your Next Steps
 * Find a hackathon that either works with your strengths or involves an area you want to improve. 

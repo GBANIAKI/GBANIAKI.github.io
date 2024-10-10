@@ -15,6 +15,6 @@ description: This series of articles explores how to win at a hackathon even if 
 ---
 
 This article is written in three parts:
-* [Part 1: Investing in the “Dots”]({{base_url}}/article/2023/06/22/how-to-win-at-a-hackathon.html)
+* [Part 1: Investing in the “Dots”]({% post_url 2023-06-21-how-to-win-at-a-hackathon1 %})
 * [Part 2: Connecting the “Dots”]({{base_url}}/article/2023/06/22/how-to-win-at-a-hackathon-2.html)
 * [Part 3: Casting the “Dots,” wide and far]({{base_url}}/article/2023/06/22/how-to-win-at-a-hackathon-3.html)
