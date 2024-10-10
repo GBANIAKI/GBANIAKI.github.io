@@ -3,10 +3,10 @@ layout: posts
 title:  "Accelerating your Career"
 tagline: "Professional Services That Transformed My Professional Viability"
 date:   2023-06-21 19:13:27 -0500
-highlight_home: true
+highlight_home: false
 category: article
 tags: [leadership]
-author_profile: true
+author_profile: false
 author: Leigh Stewardson
 header:
  teaser: https://images.unsplash.com/photo-1516321318423-f06f85e504b3

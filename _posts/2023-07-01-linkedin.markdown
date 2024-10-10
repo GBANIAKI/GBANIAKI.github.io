@@ -3,10 +3,10 @@ layout: posts
 title:  "LinkedIn Learning Courses"
 date:   2023-07-01 16:13:27 -0500
 tags: [Tutorials]
-author_profile: true
+author_profile: false
 author: Leigh Stewardson
 categories: work
-highlight_home: true
+highlight_home: false
 tagline: "JavaScript and Jekyll Portfolio tutorials"
 header:
   overlay_image: /assets/images/prop_binding.png
