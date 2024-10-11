@@ -23,7 +23,7 @@ description: This article showcases the game Red hat Hybrid cloud.
 # Approach
 In colaborations with hands-on lab leaders, I used Red Hat hybrid cloud console to configure node and cluster scaling policies, managed upgrades, single sign-on for the cluster using Amazon Cognito, and forward logs to Amazon CloudWatch.
 In addition, I deployed an application that uses AWS IAM Roles for service Accounts and AWS STS to connect to an Amazon DynamoDB table. Besides, I made an application on OpenShift scalable and resisteant to node failures and upgrades. Finally, I deployed application using CI/CD tooling, including OpenShift GitOps and source-to-image, and use labels for deterministic app placement on nodes. Learned how to use Open Shift Service Mesh for application observability and tracing.
-You can get the detailed approached used here [get the MD](/assets/markdown/hands-on-lab-rosa-1.md) directly.
+You can get the detailed approached used here [Hands-on-lab]({% post_url 2024-10-10-hands-on-lab-rosa-1 %}) directly.
 
 # Result
 The outcome of the project was splandid, but I was not  successful to use Open Shift Mesh to observe and trace application. You can find below the detailed outcome of the process
