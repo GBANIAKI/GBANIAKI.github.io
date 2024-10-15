@@ -1,7 +1,6 @@
-
 ---
 layout: posts
-title:  " Explore your ROSA Environment"
+title:  "Explore your ROSA Environment"
 date:   2024-10-10 03:48:27 -0500
 tagline: "Hybrid cloud console"
 author_profile: true
@@ -13,7 +12,7 @@ header:
     overlay_image: https://images.unsplash.com/photo-1512928210967-3dced5ba507b
     teaser: https://images.unsplash.com/photo-1512928210967-3dced5ba507b
     caption: "Photo credit: [**Unsplash: Katya Ross**](https://unsplash.com/@katya)"
-description: This article showcases the game Red hat Hybrid cloud.
+description: This article showcases the game Red Hat Hybrid cloud.
 ---
 
 
